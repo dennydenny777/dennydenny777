@@ -5,14 +5,14 @@
 ---
 
 <p align="center">
-  <em style="color:#888;">Ethical hacking · network security · secure app development</em>
+  <em>Ethical hacking · Network security · Secure app development</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Security-Primary-1E90FF?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber Security" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Secondary-1E90FF?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/App%20Dev-Secondary-1E90FF?style=for-the-badge&logo=android&logoColor=white" alt="App Dev" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Secondary-1E90FF?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-1E90FF?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber Security" />
+  <img src="https://img.shields.io/badge/Full%20Stack-1E90FF?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/App%20Dev-1E90FF?style=for-the-badge&logo=android&logoColor=white" alt="App Dev" />
+  <img src="https://img.shields.io/badge/UI%2FUX-1E90FF?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
 </p>
 
 ---
